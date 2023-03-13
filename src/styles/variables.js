@@ -5,6 +5,7 @@ const variables = css`
     --dark-navy: #020c1b;
     --navy: #0a192f;
     --light-navy: #112240;
+    --light-navy-shadow: #11224080;
     --lightest-navy: #233554;
     --navy-shadow: rgba(2, 12, 27, 0.7);
     --dark-slate: #495670;
@@ -16,6 +17,14 @@ const variables = css`
     --green-tint: rgba(100, 255, 218, 0.1);
     --pink: #f57dff;
     --blue: #57cbff;
+
+    --lavender-gray: #babfc9;
+    --lavender-gray-shadow: #3f4550;
+    --black-coral: #515867;
+    --charcoal: #3f4450;
+    --smoky-black: #161316;
+    --smoky-black-tint: rgba(63, 69, 80, 0.2);
+    --light-grey: #d6d6d6;
 
     --font-sans: 'Calibre', 'Inter', 'San Francisco', 'SF Pro Text', -apple-system, system-ui,
       sans-serif;
