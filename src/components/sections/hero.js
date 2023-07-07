@@ -74,7 +74,7 @@ const Hero = () => {
     </>
   );
   const five = (
-    <a href="/resume.pdf" className="email-link">
+    <a href="/CV_FanYehan_20230707.pdf" className="email-link">
       My resume
     </a>
   );

@@ -7,4 +7,5 @@ range: 'May 2023 - present'
 url: 'https://tsc.ai/'
 ---
 
-- Develope expertise in event extraction, a crucial task in natural language processing, by working on a challenging project.
+- Developed a robust event extraction framework by fine-tuning pretrained large language models, specifically tailored for mining-related news for our mining corporation customers. 
+- Currently working on implementing a novel feature of event causal inference to enhance the event extraction system leveraging topic modeling technique, providing stakeholders with insights into the causal relationships of potential events.
